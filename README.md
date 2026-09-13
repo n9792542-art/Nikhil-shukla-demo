@@ -1,4 +1,4 @@
 # Nikhil-shukla-demo
 This is my first repository.
 <br>
-Author - Nikhil shukla
+Author - Nikhil shukla(nikhil)
